@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghav Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redclawww" alt="redclawww" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/red_claww" target="blank"><img src="https://img.shields.io/twitter/follow/red_claww?logo=twitter&style=for-the-badge" alt="red_claww" /></a> </p>
 
 - 🔭 I’m currently working on **NFT Marketplace**
 
