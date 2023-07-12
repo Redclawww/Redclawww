@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **NFT Marketplace**
 
-- 🌱 I’m currently learning **Full Stack from angela yuu on udemy**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **projects imlementing Frontend and Blockchain**
 
 - 🤝 I’m looking for help with **my NFT Marketplace**
 
-- 💬 Ask me about **Bootstrap and Blockchain**
+- 💬 Ask me about **ReactJS and Blockchain**
 
 - 📫 How to reach me **redclaww02@gmail.com**
 
