@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Raghav Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate Web Developer | Crafting Exceptional User Experiences🚀</h3>
 
 
 - 🔭 I’m currently working on **NFT Marketplace**
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on **projects imlementing Frontend and Blockchain**
+- 👯 I’m looking to collaborate on **projects implementing Frontend and Blockchain**
 
 - 🤝 I’m looking for help with **my NFT Marketplace**
 
-- 💬 Ask me about **ReactJS and Blockchain**
+- 💬 Ask me about **ReactJS and Gaming**
 
 - 📫 How to reach me **redclaww02@gmail.com**
 
-- ⚡ Fun fact **I have diet of a monster**
+- ⚡ Fun fact **I have a diet of a monster**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
