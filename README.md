@@ -4,13 +4,11 @@
 
 - 🔭 I’m currently working on **NFT Marketplace**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate on **projects implementing Frontend and Blockchain**
+- 👯 I’m looking to collaborate on **web3 based Projects**
 
-- 🤝 I’m looking for help with **my NFT Marketplace**
-
-- 💬 Ask me about **ReactJS and Gaming**
+- 💬 Ask me about **ReactJS and Video Games**
 
 - 📫 How to reach me **redclaww02@gmail.com**
 
