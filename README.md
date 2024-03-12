@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Web Developer | Crafting Exceptional User Experiences🚀</h3>
 
 
-- 🔭 I’m currently working on **NFT Marketplace**
+- 🔭 I’m currently looking for **freelance opportunities**
 
 - 🌱 I’m currently learning **NextJS**
 
